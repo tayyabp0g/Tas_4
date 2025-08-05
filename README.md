@@ -1,25 +1,41 @@
-Personal Blog Homepage (React + Vite + Bootstrap)
-This project is a modern, responsive personal blog homepage built with React, Vite, and Bootstrap.
-It features a clean card layout for blog posts, category filtering, search functionality, and pagination.
-Each blog post is displayed as a card with an image, title, description, category, and date.
-The UI includes smooth hover and load animations for a modern user experience.
+📝 Personal Blog Homepage (React + Vite + Bootstrap)
+This project is a modern, responsive personal blog homepage built using React, Vite, and Bootstrap 5. It offers a smooth, user-friendly experience with visually appealing blog post cards, interactive filters, and intuitive navigation.
 
-Features:
+Each blog post is displayed in a card format with an image, title, description, category, and date. The UI includes hover effects and load animations to enhance user interaction and provide a modern feel.
 
-Responsive card grid for blog posts
-Category filter (e.g., Tech, Travel, Food)
-Search bar to filter posts by title
-Pagination (3 posts per page)
-Animated card appearance (on load and hover)
-Clean, modern Bootstrap design
-Tech Stack:
+🚀 Features
+✅ Responsive card grid for displaying blog posts on all devices
 
-React (with Vite)
-Bootstrap 5
-Custom CSS for animations
-How to run:
+🗂️ Category filter (e.g., Tech, Travel, Food)
 
-Clone the repo
-Run npm install
-Run npm run dev
+🔍 Search bar to filter posts by title
 
+📄 Pagination (3 posts per page)
+
+🎞️ Smooth animations on card load and hover
+
+🎨 Modern UI styled with Bootstrap 5
+
+🛠️ Tech Stack
+⚛️ React (with Vite for fast development)
+
+🎨 Bootstrap 5
+
+🧾 Custom CSS for animation effects
+
+▶️ How to Run Locally
+Clone the repository
+
+
+git clone https://github.com/tayyabp0g/My-Blog.git
+Navigate to the project directory
+
+
+cd My-Blog
+Install dependencies
+
+npm install
+Start the development server
+
+
+npm run dev
