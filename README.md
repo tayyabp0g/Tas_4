@@ -24,6 +24,7 @@ Each blog post is displayed in a card format with an image, title, description, 
 🧾 Custom CSS for animation effects
 
 ▶️ How to Run Locally
+
 Clone the repository
 
 
@@ -33,9 +34,11 @@ Navigate to the project directory
 
 
 cd My-Blog
+
 Install dependencies
 
 npm install
+
 Start the development server
 
 
