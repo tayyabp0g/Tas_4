@@ -1,12 +1,45 @@
-# React + Vite
+📝 Personal Blog Homepage (React + Vite + Bootstrap)
+This project is a modern, responsive personal blog homepage built using React, Vite, and Bootstrap 5. It offers a smooth, user-friendly experience with visually appealing blog post cards, interactive filters, and intuitive navigation.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Each blog post is displayed in a card format with an image, title, description, category, and date. The UI includes hover effects and load animations to enhance user interaction and provide a modern feel.
 
-Currently, two official plugins are available:
+🚀 Features
+✅ Responsive card grid for displaying blog posts on all devices
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🗂️ Category filter (e.g., Tech, Travel, Food)
 
-## Expanding the ESLint configuration
+🔍 Search bar to filter posts by title
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📄 Pagination (3 posts per page)
+
+🎞️ Smooth animations on card load and hover
+
+🎨 Modern UI styled with Bootstrap 5
+
+🛠️ Tech Stack
+⚛️ React (with Vite for fast development)
+
+🎨 Bootstrap 5
+
+🧾 Custom CSS for animation effects
+
+▶️ How to Run Locally
+
+Clone the repository
+
+
+git clone    https://github.com/tayyabp0g/Tas_4.git
+
+Navigate to the project directory
+
+
+cd My-Blog
+
+Install dependencies
+
+npm install
+
+Start the development server
+
+
+npm run dev
