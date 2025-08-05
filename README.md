@@ -27,7 +27,8 @@ Each blog post is displayed in a card format with an image, title, description, 
 Clone the repository
 
 
-git clone https://github.com/tayyabp0g/My-Blog.git
+git clone    https://github.com/tayyabp0g/Tas_4.git
+
 Navigate to the project directory
 
 
